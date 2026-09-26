@@ -9,8 +9,7 @@ I like turning complex processes into interfaces that feel simple.
 
 ### Featured projects
 - **[Crave](https://github.com/dmnk-ws/crave):** food ordering platform with React, Vue and Svelte micro-frontends as Web Components, backed by polyglot microservices
-- **[Multi-Model Chat](https://github.com/dmnk-ws/ai-chatbot):** Next.js app for chatting with and comparing Mistral, OpenAI and Anthropic models
+- **[Multi-Model Chat](https://github.com/dmnk-ws/ai-chatbot):** Next.js app for chatting with and comparing Mistral, OpenAI, xAI Grok and Anthropic models
 - **[Moviebase](https://github.com/dmnk-ws/moviebase):** React + TypeScript app for discovering movies and shows via the TMDB API
 
-🌍 Lived and worked in New Zealand and Sweden, open to relocate
-🔗 [dmnkws.dev](https://dmnkws.dev) · [LinkedIn](YOUR-LINKEDIN-URL)
+🌍 Lived and worked in New Zealand and Sweden, open to relocating
